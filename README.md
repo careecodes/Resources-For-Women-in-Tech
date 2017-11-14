@@ -13,3 +13,5 @@ Resources specifically for women in technology
 
 ## Newsletters
 
+## Courses
+* [Negotiat[Her]](https://developher.com/negotiate/)
